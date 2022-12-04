@@ -3,3 +3,4 @@
 -git add .:thêm tất cả file bị thay đổi
 -git commit -m "message":xác nhận sự thay đổi và lưu trữ tất cả các file đã thay đổi
 -git add:sắp xếp các file đã bị thay đổi, thêm mới hoặc xóa so với lần commit trước đó, chuẩn bị cho lần commit tiếp theo
+-git log: xem lại lịch sử commit
